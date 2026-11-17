@@ -1,2 +1,0 @@
-# firt-repol
-testing
